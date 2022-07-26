@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Harry ",
+      "rollno": 101,
+      "email": "kgf@gmail.com",
+      "phone": 9876366668,
+      "city": "London"
+    },
+    {
+      "id": 2,
+      "name": "Don Quixote",
+      "rollno": 102,
+      "email": "kgk@gmail.com",
+      "phone": 9876866663,
+      "city": "Madrid"
+    },
+    {
+      "name": "heen",
+      "rollno": "5544",
+      "email": "golde@gmail.com",
+      "phone": "5864975632",
+      "city": "kanadauuu",
+      "id": 3
+    },
+    {
+      "name": "saumyaj",
+      "rollno": "552",
+      "email": "hyyhh@gmail.com",
+      "phone": "6655155852",
+      "city": "hhhhhuj",
+      "id": 4
+    },
+    {
+      "name": "jokereee",
+      "rollno": "8554",
+      "email": "hhhhhh@gmail.com",
+      "phone": "5485222555",
+      "city": "hyhgj",
+      "id": 5
+    }
+  ]
+}
